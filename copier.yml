@@ -22,12 +22,21 @@ odoo_version:
   type: float
   default: 15.0
   choices:
+<<<<<<< HEAD
     - 10.0
     - 11.0
     - 12.0
     - 13.0
     - 14.0
     - 15.0
+=======
+    - "10.0"
+    - "11.0"
+    - "12.0"
+    - "13.0"
+    - "14.0"
+    - "15.0"
+>>>>>>> 15.0 and latest goodies from the OCA template
   help: Which Odoo version are we deploying in this branch?
 
 org_slug:
